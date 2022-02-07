@@ -24,11 +24,13 @@ blocks.h:
 
 clean:
 	rm -f *.o *.gch dwmblocks
+	rm blocks.h
 
 install: dwmblocks
 	mkdir -p ${DESTDIR}${PREFIX}/bin
 	cp -f dwmblocks ${DESTDIR}${PREFIX}/bin
 	chmod 755 ${DESTDIR}${PREFIX}/bin/dwmblocks
+	rm blocks.h
 
 uninstall:
 	rm -f ${DESTDIR}${PREFIX}/bin/dwmblocks
