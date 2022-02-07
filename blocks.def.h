@@ -7,7 +7,7 @@ static const Block blocks[] = {
 	{"", "trafdown",									1,									0},
 	{"", "trafup",										1,									0},
 	{"", "cpu",												1,									0},
-	{"", "battery",										30,									0},
+	{"", "battery",										10,									0},
 	{"", "disk",											10,									0},
 	{"", "memory",										10,									0},
 	{"", "volume",										10,									0},
