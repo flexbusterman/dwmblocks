@@ -19,7 +19,8 @@ static const Block blocks[] = {
 	{"", "delimeter",									10,									0},
 	{"", "memory",										10,									0},
 	{"", "delimeter",									10,									0},
-	{"", "volume",										10,									0},
+	// {"", "volume",										10,									0},
+	{"",	"sb-volume",								0,									10},
 	{"", "delimeter",									10,									0},
 	{"", "clock",											5,									0},
 };
