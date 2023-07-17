@@ -4,7 +4,7 @@ static const Block blocks[] = {
 	// {"", "music",											1,									0},
 	// {"", "delimeter",									10,									0},
 	/* {"", "mailbox",										10,									0}, */
-	{"", "updates",										60,									0},
+	{"", "updates",										1800,									0},
 	{"", "delimeter",									10,									0},
 	// {"", "updates",										600,								0},
 	// {"", "delimeter",									10,									0},
