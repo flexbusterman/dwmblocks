@@ -19,7 +19,7 @@ static const Block blocks[] = {
 	{"", "delimeter",									10,									0},
 	{"", "cpu",												1,									0},
 	{"", "delimeter",									10,									0},
-	{"", "battery",										10,									0},
+	{"", "battery",										2,									0},
 	{"", "delimeter",									10,									0},
 	{"", "disk",											10,									0},
 	{"", "delimeter",									10,									0},
