@@ -10,7 +10,7 @@ static const Block blocks[] = {
 	// {"", "delimeter",									10,									0},
 	{"", "echo \" \"",										600,									0},
 	// {"", "localip",										10,									0},
-	{"", "taskstatusclean",									1,									0},
+	{"", "taskscriptclean",									1,									0},
 	{"", "delimeter",									10,									0},
 	// {"", "publicip",									10,									0},
 	// {"", "delimeter",									10,									0},
